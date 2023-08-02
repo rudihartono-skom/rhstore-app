@@ -1,0 +1,17 @@
+.navbar-brand span{
+    color: rgb(251, 3, 3);
+}
+
+.navbar-nav a{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.navbar-nav a:hover{
+    color: rgb(255, 5, 5);
+}
+
+.fs-7{
+    font-size: 10px;
+}
+
